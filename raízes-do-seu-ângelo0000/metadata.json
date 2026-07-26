@@ -1,0 +1,6 @@
+{
+  "name": "Raízes do Seu Ângelo",
+  "description": "Landing page de vendas do e-book Raízes do Seu Ângelo - Receitas tradicionais e conhecimentos de sabedoria natural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
